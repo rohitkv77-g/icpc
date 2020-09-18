@@ -22,3 +22,7 @@ https://www.codechef.com/tags/problems<br>
 <br>
 ICPC regional problems till 2017:<br>
 https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8<br>
+
+# Extra Topics
+1. Digit DP<br>
+https://codeforces.com/blog/entry/53960
